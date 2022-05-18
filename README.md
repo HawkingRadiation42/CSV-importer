@@ -3,3 +3,6 @@ Import Csv is a web application where the user can import there csv data into th
 
 The user must signup first to avail the service.
 For that I have made use of appwrite sdk for login,signup and creating session of the user.
+
+
+A project created for appwrite hackathon
